@@ -1,4 +1,4 @@
-# Improve Phishing Email Project
+# Mastercard Cybersecurity - Improve Phishing Email Project
 ## Let's give you some context
 
 You are an analyst in our **Security Awareness Team.**
